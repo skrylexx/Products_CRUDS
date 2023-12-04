@@ -1,10 +1,10 @@
-#Projet CRUD#
+#Projet CRUD
 
 Ce projet permet d'avoir les résultats des tests unitaires d'un site web avec CRUD.  
 Ce projet est un fork du projet suivant : https://github.com/MohamedMamdouh1999/Products_CRUDS
 
 
-##Tests unitaires##
+##Tests unitaires
 
 Product name : value start with maj(error), min 2 char (error), green if in range (usual)  
 Product price : min 3 char (error), max 309 char (error), green if in range (usual)  
